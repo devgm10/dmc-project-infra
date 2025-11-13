@@ -5,6 +5,10 @@ Desplegando una API Django en Azure con Terraform Cloud
 
 ### 📌 🏗️ ARQUITECTURA IMPLEMENTADA
 
+<p align="center">
+  <img src="./img/diagram.png" alt="diagram" width="900">
+</p>
+
 1️⃣ Código de Aplicación (zenya-backend)
 ```bash
 - API REST con Django REST Framework
